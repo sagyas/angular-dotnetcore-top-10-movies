@@ -9,8 +9,8 @@ The Movies are all saved locally in a .json file.
 
 ![alt text](./top-10-movies.png "App")
 
-This Angular 11 project was created using `ng new`.  
-This .NET Core 5 project was created using `dotnet new webapi`.
+This Angular project was created using `ng new`.  
+This .NET Core project was created using `dotnet new webapi`.
 
 ## Run
 
