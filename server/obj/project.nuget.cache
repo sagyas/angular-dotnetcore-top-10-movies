@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1n5he3nTMNyKjusvFkl4ZVVvApkt/Hg5u8aCtRpbF+qYbm2M4uu1GL44QH9Hybcj87Kt+ZDFNyDQ6/zqIly/ug==",
+  "success": true,
+  "projectFilePath": "/home/sagy/Desktop/Projects/top-10-movies/server/server.csproj",
+  "expectedPackageFiles": [
+    "/home/sagy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/sagy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/sagy/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/sagy/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/sagy/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/sagy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/sagy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

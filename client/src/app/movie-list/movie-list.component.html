@@ -1,0 +1,15 @@
+<div class="form-group filter">
+  <label class="label">Filter by Category:</label>
+  <select class="form-control select" (change)="onChange($event.target.value)">
+    <option value=""></option>
+    <option *ngFor="let category of categoryList" value="{{ category }}">
+      {{ category }}
+    </option>
+  </select>
+</div>
+
+<div class="list">
+  <div *ngFor="let movie of movieList" class="item">
+    <app-movie-item [movie]="movie"></app-movie-item>
+  </div>
+</div>

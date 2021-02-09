@@ -1,0 +1,7 @@
+<div class="container" (click)="onClick()">
+  <img class="image" src="{{ movie.image }}" />
+  <div class="movie-name">
+    <p *ngIf="!infoToggle">{{ movie.name }}</p>
+    <p *ngIf="infoToggle">#{{ movie.ranking }}<br />{{ movie.category }}</p>
+  </div>
+</div>

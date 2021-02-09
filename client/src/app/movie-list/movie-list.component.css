@@ -1,0 +1,32 @@
+.list {
+  text-align: start;
+  width: 1300px;
+  margin: auto;
+  padding: 20px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.item {
+  padding: 5px;
+  font-size: 1.5rem;
+}
+
+.select {
+  width: max-content;
+  display: inline;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+.filter {
+  margin: auto;
+  width: max-content;
+  box-shadow: 2px 2px 7px 1px #ccc;
+}
+
+.label {
+  padding: 15px;
+}

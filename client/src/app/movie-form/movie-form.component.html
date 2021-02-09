@@ -1,0 +1,42 @@
+<form (ngSubmit)="onSubmit()" [formGroup]="form" class="form">
+  <h4>Add new movie</h4>
+  <div class="form-group">
+    <label for="movieName">Movie Name</label>
+    <input
+      type="text"
+      class="form-control"
+      formControlName="movieName"
+      id="movieName"
+      required
+    />
+  </div>
+  <div class="form-group">
+    <label for="category">Category</label>
+    <select class="form-control" id="category" formControlName="category">
+      <option *ngFor="let category of categoryList">
+        {{ category }}
+      </option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="ranking">Ranking</label>
+    <input
+      type="number"
+      class="form-control"
+      id="ranking"
+      formControlName="ranking"
+      required
+    />
+  </div>
+  <div class="form-group">
+    <label for="ranking">Image Link</label>
+    <input
+      type="text"
+      class="form-control"
+      id="image"
+      formControlName="image"
+    />
+  </div>
+  <button type="submit" class="btn btn-primary">Add</button>
+  <div class="error" *ngIf="error">Movie Name and Ranking are required!</div>
+</form>
