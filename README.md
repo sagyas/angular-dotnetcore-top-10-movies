@@ -1,10 +1,10 @@
 # Top 10 Movies
 
-![alt text](./top-10-movies.png 'App')
-
 List of Top 10 Movies.
 This Angular project was created using `ng new`.  
 This .NET Core project was created using `dotnet new webapi`.
+
+![alt text](./top-10-movies.png 'App')
 
 ### Features
 
