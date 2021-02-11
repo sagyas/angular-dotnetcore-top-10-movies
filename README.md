@@ -1,6 +1,6 @@
 # Top 10 Movies
 
-List of Top 10 Movies.
+List of Top 10 Movies.  
 This Angular project was created using `ng new`.  
 This .NET Core project was created using `dotnet new webapi`.
 
