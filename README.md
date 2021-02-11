@@ -15,7 +15,7 @@ This .NET Core project was created using `dotnet new webapi`.
 
 ## Installation
 
-1. Clone the repo:
+1. Clone the repo:  
    `$ git clone https://github.com/sagyas/top-10-movies.git`
 2. Open terminal in the `client` folder and run:  
    `$ npm install`
@@ -24,7 +24,7 @@ This .NET Core project was created using `dotnet new webapi`.
 
 1. Open terminal in the `client` folder and run:  
    `$ ng serve`
-2. Open termianl in the `server` folder and run:
+2. Open termianl in the `server` folder and run:  
    `$ dotnet run`
 3. Open browser on:  
    http://localhost:4200/
