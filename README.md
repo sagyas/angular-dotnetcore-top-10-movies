@@ -1,8 +1,8 @@
 # Top 10 Movies
 
 List of Top 10 Movies.  
-This Angular project was created using `ng new`.  
-This .NET Core project was created using `dotnet new webapi`.
+This Angular project was created with `$ ng new`.  
+This .NET Core project was created with `$ dotnet new webapi`.
 
 ![alt text](./top-10-movies.png 'App')
 
