@@ -1,4 +1,4 @@
-# Top 10 Movies
+# Top 10 Movies in Angular & .NET Core
 
 List of Top 10 Movies.  
 This Angular project was created with `$ ng new`.  
